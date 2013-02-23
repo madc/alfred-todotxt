@@ -5,7 +5,7 @@ Supports all arguments/extentions. It's really just a wrapper.
 ## Dependencies
 
 - [AlfredApp](http://www.alfredapp.com) + Powerpack
-- [Todo.txt](todotxt.com)
+- [Todo.txt](http://www.todotxt.com)
 
 ## Setup
 

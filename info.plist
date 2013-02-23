@@ -11,9 +11,7 @@
 # todo [-fhpantvV] [-d todo_config] action [task_nr] [task_desc]
 # Try 'todo -h' for more information.
 
-TODOTXT_PATH = $"/opt/local/bin"
-
-####
+TODOTXT_PATH='/opt/local/bin'
 
 $TODOTXT_PATH/todotxt {query} |
 while IFS= read -r line; do

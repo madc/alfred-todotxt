@@ -6,10 +6,12 @@ Supports all arguments/extentions. It's really just a wrapper.
 
 - [AlfredApp](http://www.alfredapp.com) + Powerpack
 - [Todo.txt](http://www.todotxt.com)
+- [Growl](http://www.growl.info)
 
 ## Setup
 
-Download the [Todo.txt.alfredextension](https://github.com/madc/alfred-todotxt/raw/master/Todo.txt.alfredextension) from above and import it into Alfred. The extension should work with Todo.txt right away, if installed via [MacPorts](https://trac.macports.org/browser/trunk/dports/office/todotxt/Portfile). Otherwise, TODOTXT_PATH has to be alterd to match the path, the todotxt is located.
+Download the [Todo.txt.Todo.txt.alfredworkflow](https://github.com/madc/alfred-todotxt/raw/master/Todo.txt.Todo.txt.alfredworkflow) from above and import it into Alfred. The workflow should work with Todo.txt right away, if installed via [MacPorts](https://trac.macports.org/browser/trunk/dports/office/todotxt/Portfile). Otherwise, TODOTXT_PATH has to be alterd to match the path, the todotxt is located.
+See the _Alfred-v1.x_ tag for the Alfred 1.x extention.
 
 ## Sources & Thanks
 
